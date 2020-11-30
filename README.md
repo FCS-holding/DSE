@@ -12,7 +12,7 @@ out where to be further improved accordingly.
 ## Documentation
 
 The Merlin DSE documents can be found
-[here](https://falcon-computing.github.io/DSE).
+[here](https://FCS-holding.github.io/DSE).
 It includes:
 
 * Installation guide
